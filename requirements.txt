@@ -1,0 +1,7 @@
+
+pip
+streamlit
+pandas
+matplotlib
+networkx
+pip
